@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/justinlo/Documents/GitHub/roll_detection/firmware/roll_detection/src",
+      "program": "/Users/justinlo/Documents/GitHub/roll_detection/firmware/roll_detection/src/build/Debug/outDebug"
+    }
+  ]
+}
